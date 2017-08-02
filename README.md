@@ -1,1 +1,1 @@
-#Day2
+#Day2 is also interesting
